@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Manoj-003
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on frontend project
 - 📫 How to reach me manojmautya003196@gmail.com
 
